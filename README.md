@@ -1,4 +1,4 @@
-#simple mail sender app
+# simple mail sender app
 
 This app is able to:
 1) send simple text email to one or multiple users (via smtp).
